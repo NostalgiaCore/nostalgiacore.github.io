@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NostalgiaCore",
   description: "NostalgiaCore is a fork of Legacy PocketMine-MP for MCPE 0.8.1",
-  base: '/nostalgiacore.github.io/',
+  base: '/',
   srcDir: 'web',
   themeConfig: {
     lastUpdated: {
