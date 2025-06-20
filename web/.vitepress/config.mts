@@ -4,7 +4,6 @@ export default defineConfig({
   title: "NostalgiaCore",
   description: "NostalgiaCore is a fork of Legacy PocketMine-MP for MCPE 0.8.1",
   base: '/',
-  srcDir: 'web',
   themeConfig: {
     lastUpdated: {
       text: 'Updated in',
