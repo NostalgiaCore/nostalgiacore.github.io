@@ -95,7 +95,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kotyaralih/NostalgiaCore/' }
+      { icon: 'github', link: 'https://github.com/kotyaralih/NostalgiaCore/' },
+      { icon: 'discord', link: 'https://discord.gg/uSHEWe6NC3' }
     ]
   },
 
