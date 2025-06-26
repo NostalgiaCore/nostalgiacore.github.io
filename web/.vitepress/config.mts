@@ -49,8 +49,9 @@ export default defineConfig({
       {
         text: "PHP Binaries",
         items: [
-          { text: "PHP 8.0", link: "https://github.com/pmmp/PHP-Binaries/releases/tag/pm4-php-8.0-latest" },
-          { text: "PHP 8.0 ARMv8", link: "https://github.com/DaisukeDaisuke/AndroidPHP/releases/tag/8.0.28" },
+          { text: "PHP 8.0 Linux x86_64", link: "https://github.com/kotyaralih/NostalgiaCore/releases/download/NostalgiaCore_1.1.0_01/PHP-Linux-x86_64.tar.gz" },
+          { text: "PHP 8.0 Linux ARMv8", link: "https://github.com/kotyaralih/NostalgiaCore/releases/download/NostalgiaCore_1.1.0_01/PHP_Linux_ARMv8.tar.gz" },
+          { text: "PHP 8.0 Windows x64", link: "https://github.com/kotyaralih/NostalgiaCore/releases/download/NostalgiaCore_1.1.0_01/PHP_Windows_x64.zip" },
         ]
       },
     ],
